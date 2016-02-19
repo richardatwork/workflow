@@ -26,12 +26,12 @@
                   moduleName = "Meda_Workflow"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/richard/Desktop/2013/Meda_WorkFlow/workflow/Meda_Workflow/ViewController.swift"
-                  timestampString = "477569609.671518"
+                  timestampString = "477579949.669183"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
                   endingLineNumber = "0"
-                  offsetFromSymbolStart = "20">
+                  offsetFromSymbolStart = "16">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -41,12 +41,12 @@
                   moduleName = "Meda_Workflow"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/richard/Desktop/2013/Meda_WorkFlow/workflow/Meda_Workflow/ViewController.swift"
-                  timestampString = "477569609.671707"
+                  timestampString = "477579949.669337"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "11"
                   endingLineNumber = "11"
-                  offsetFromSymbolStart = "148">
+                  offsetFromSymbolStart = "172">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -56,12 +56,12 @@
                   moduleName = "Meda_Workflow"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/richard/Desktop/2013/Meda_WorkFlow/workflow/Meda_Workflow/ViewController.swift"
-                  timestampString = "477569609.671853"
+                  timestampString = "477579949.669477"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "11"
                   endingLineNumber = "11"
-                  offsetFromSymbolStart = "112">
+                  offsetFromSymbolStart = "136">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -71,12 +71,12 @@
                   moduleName = "Meda_Workflow"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/richard/Desktop/2013/Meda_WorkFlow/workflow/Meda_Workflow/ViewController.swift"
-                  timestampString = "477569609.672008"
+                  timestampString = "477579949.669634"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "11"
                   endingLineNumber = "11"
-                  offsetFromSymbolStart = "92">
+                  offsetFromSymbolStart = "124">
                </Location>
             </Locations>
          </BreakpointContent>

@@ -177,6 +177,16 @@
                                     <segue destination="zi5-tc-fHa" kind="modal" modalTransitionStyle="crossDissolve" id="amf-SF-eDI"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JwI-i6-J4G">
+                                <rect key="frame" x="679" y="532" width="181" height="60"/>
+                                <color key="backgroundColor" cyan="0.0" magenta="1" yellow="0.99596768619999998" black="0.0" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                                <state key="normal" title="Get results">
+                                    <color key="titleColor" red="0.0" green="0.90347450659999995" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="X3g-QO-2Sh" kind="modal" modalTransitionStyle="crossDissolve" id="I9b-gL-IuI"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
@@ -255,6 +265,48 @@
                 <exit id="qY8-AO-XTc" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
             <point key="canvasLocation" x="1948" y="1546"/>
+        </scene>
+        <!--Button View Controller-->
+        <scene sceneID="xQN-kJ-6kM">
+            <objects>
+                <viewController id="X3g-QO-2Sh" customClass="ButtonViewController" customModule="Meda_Workflow" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="gEl-ja-aUm"/>
+                        <viewControllerLayoutGuide type="bottom" id="O8W-ql-Eg2"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="YwW-yD-iHp">
+                        <rect key="frame" x="0.0" y="0.0" width="1024" height="768"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Result!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JJv-LG-ofu">
+                                <rect key="frame" x="424" y="265" width="176" height="74"/>
+                                <color key="backgroundColor" red="0.0" green="0.90347450659999995" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="23"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ivy-iV-kuX">
+                                <rect key="frame" x="430" y="387" width="170" height="77"/>
+                                <color key="backgroundColor" cyan="0.0" magenta="1" yellow="0.99596768619999998" black="0.0" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                                <state key="normal" title="Shake it!">
+                                    <color key="titleColor" red="0.0" green="0.90347450659999995" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="shakeButtonTouch:" destination="X3g-QO-2Sh" eventType="touchUpInside" id="mSQ-3s-c6E"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.99533601179999998" green="0.61957982499999997" blue="0.23145855339999999" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="iPad"/>
+                    <connections>
+                        <outlet property="shakeButtonView" destination="Ivy-iV-kuX" id="eUl-em-VgL"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="GG1-aQ-UJv" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3059" y="692"/>
         </scene>
         <!--View Contoller-->
         <scene sceneID="Sxu-Yz-hMK">
