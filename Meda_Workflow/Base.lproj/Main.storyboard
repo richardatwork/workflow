@@ -177,16 +177,6 @@
                                     <segue destination="zi5-tc-fHa" kind="modal" modalTransitionStyle="crossDissolve" id="amf-SF-eDI"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JwI-i6-J4G">
-                                <rect key="frame" x="679" y="532" width="181" height="60"/>
-                                <color key="backgroundColor" cyan="0.0" magenta="1" yellow="0.99596768619999998" black="0.0" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
-                                <state key="normal" title="Get results">
-                                    <color key="titleColor" red="0.0" green="0.90347450659999995" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                </state>
-                                <connections>
-                                    <segue destination="X3g-QO-2Sh" kind="modal" modalTransitionStyle="crossDissolve" id="oS3-G2-AsW"/>
-                                </connections>
-                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
