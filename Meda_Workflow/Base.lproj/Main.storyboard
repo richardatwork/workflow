@@ -291,8 +291,12 @@
                                 <state key="normal" title="Shake it!">
                                     <color key="titleColor" red="0.0" green="0.90347450659999995" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PGd-tg-q2w">
+                                <rect key="frame" x="781" y="77" width="34" height="30"/>
+                                <state key="normal" title="Back"/>
                                 <connections>
-                                    <action selector="shakeButtonTouch:" destination="X3g-QO-2Sh" eventType="touchUpInside" id="mSQ-3s-c6E"/>
+                                    <segue destination="Xvy-vQ-geE" kind="modal" modalTransitionStyle="crossDissolve" id="plj-nf-KUO"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -300,9 +304,6 @@
                     </view>
                     <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="iPad"/>
-                    <connections>
-                        <outlet property="shakeButtonView" destination="Ivy-iV-kuX" id="eUl-em-VgL"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GG1-aQ-UJv" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -830,10 +831,10 @@
         <image name="letsFlow_Btn" width="116" height="21"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="rST-BJ-SOX"/>
-        <segue reference="Lii-PC-0yx"/>
-        <segue reference="amf-SF-eDI"/>
-        <segue reference="qUV-YY-imQ"/>
         <segue reference="VQV-DO-Aon"/>
+        <segue reference="plj-nf-KUO"/>
+        <segue reference="amf-SF-eDI"/>
+        <segue reference="rST-BJ-SOX"/>
+        <segue reference="qUV-YY-imQ"/>
     </inferredMetricsTieBreakers>
 </document>

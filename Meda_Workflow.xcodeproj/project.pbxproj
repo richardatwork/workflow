@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		791330E61C774C6600198DA9 /* ButtonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791330E51C774C6600198DA9 /* ButtonViewController.swift */; };
 		793A7FEB1C72068400A9E454 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793A7FEA1C72068400A9E454 /* AppDelegate.swift */; };
 		793A7FED1C72068400A9E454 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793A7FEC1C72068400A9E454 /* ViewController.swift */; };
 		793A7FF01C72068400A9E454 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 793A7FEE1C72068400A9E454 /* Main.storyboard */; };
@@ -45,7 +44,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		791330E51C774C6600198DA9 /* ButtonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonViewController.swift; sourceTree = "<group>"; };
 		793A7FE71C72068400A9E454 /* Meda_Workflow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Meda_Workflow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		793A7FEA1C72068400A9E454 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		793A7FEC1C72068400A9E454 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -117,7 +115,6 @@
 			children = (
 				793A7FEA1C72068400A9E454 /* AppDelegate.swift */,
 				793A7FEC1C72068400A9E454 /* ViewController.swift */,
-				791330E51C774C6600198DA9 /* ButtonViewController.swift */,
 				793A7FEE1C72068400A9E454 /* Main.storyboard */,
 				7998E1D91C75AF9600107DE1 /* Assets.xcassets */,
 				793A7FF31C72068400A9E454 /* LaunchScreen.storyboard */,
@@ -271,7 +268,6 @@
 				796A6B7F1C73207200304434 /* TransitionManager.swift in Sources */,
 				796A6B681C73207200304434 /* BlurView.swift in Sources */,
 				796A6B7E1C73207200304434 /* SpringView.swift in Sources */,
-				791330E61C774C6600198DA9 /* ButtonViewController.swift in Sources */,
 				796A6B801C73207200304434 /* TransitionZoom.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
