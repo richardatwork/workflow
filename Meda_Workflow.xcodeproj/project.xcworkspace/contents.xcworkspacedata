@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Meda_Workflow.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>

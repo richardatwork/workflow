@@ -25,13 +25,13 @@
                   symbolName = "Meda_Workflow.ViewController.__deallocating_deinit"
                   moduleName = "Meda_Workflow"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/richard/Desktop/2013/Meda_WorkFlow/Meda_Workflow/Meda_Workflow/ViewController.swift"
-                  timestampString = "477568647.268484"
+                  urlString = "file:///Users/richard/Desktop/2013/Meda_WorkFlow/workflow/Meda_Workflow/ViewController.swift"
+                  timestampString = "477569609.671518"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
                   endingLineNumber = "0"
-                  offsetFromSymbolStart = "16">
+                  offsetFromSymbolStart = "20">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -40,13 +40,13 @@
                   symbolName = "Meda_Workflow.ViewController.init (Meda_Workflow.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Meda_Workflow.ViewController"
                   moduleName = "Meda_Workflow"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/richard/Desktop/2013/Meda_WorkFlow/Meda_Workflow/Meda_Workflow/ViewController.swift"
-                  timestampString = "477568647.268661"
+                  urlString = "file:///Users/richard/Desktop/2013/Meda_WorkFlow/workflow/Meda_Workflow/ViewController.swift"
+                  timestampString = "477569609.671707"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "11"
                   endingLineNumber = "11"
-                  offsetFromSymbolStart = "172">
+                  offsetFromSymbolStart = "148">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -55,13 +55,13 @@
                   symbolName = "Meda_Workflow.ViewController.__allocating_init (Meda_Workflow.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Meda_Workflow.ViewController&gt;"
                   moduleName = "Meda_Workflow"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/richard/Desktop/2013/Meda_WorkFlow/Meda_Workflow/Meda_Workflow/ViewController.swift"
-                  timestampString = "477568647.268829"
+                  urlString = "file:///Users/richard/Desktop/2013/Meda_WorkFlow/workflow/Meda_Workflow/ViewController.swift"
+                  timestampString = "477569609.671853"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "11"
                   endingLineNumber = "11"
-                  offsetFromSymbolStart = "136">
+                  offsetFromSymbolStart = "112">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -70,13 +70,13 @@
                   symbolName = "Meda_Workflow.ViewController.init (Meda_Workflow.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Meda_Workflow.ViewController&gt;"
                   moduleName = "Meda_Workflow"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/richard/Desktop/2013/Meda_WorkFlow/Meda_Workflow/Meda_Workflow/ViewController.swift"
-                  timestampString = "477568647.268964"
+                  urlString = "file:///Users/richard/Desktop/2013/Meda_WorkFlow/workflow/Meda_Workflow/ViewController.swift"
+                  timestampString = "477569609.672008"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "11"
                   endingLineNumber = "11"
-                  offsetFromSymbolStart = "124">
+                  offsetFromSymbolStart = "92">
                </Location>
             </Locations>
          </BreakpointContent>
