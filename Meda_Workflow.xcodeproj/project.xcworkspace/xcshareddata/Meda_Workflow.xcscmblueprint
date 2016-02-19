@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9B9A5B6AA51341A71A9EBC9A4954ED94680092AB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9B9A5B6AA51341A71A9EBC9A4954ED94680092AB" : 0,
+    "BEA17449270429FA5B1EFDC1813F4E6B6136537C" : 0,
+    "71F5D8D885CFF6BD7151066D7BFF25CC48A5235E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F483D373-6569-4D8D-9E7A-8B83D42A6389",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9B9A5B6AA51341A71A9EBC9A4954ED94680092AB" : "workflow\/",
+    "BEA17449270429FA5B1EFDC1813F4E6B6136537C" : "Meda_Workflow\/",
+    "71F5D8D885CFF6BD7151066D7BFF25CC48A5235E" : "Meda_Workflow\/Meda_Workflow\/Spring\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Meda_Workflow",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Meda_Workflow.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MengTo\/Spring.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71F5D8D885CFF6BD7151066D7BFF25CC48A5235E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/richardatwork\/workflow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9B9A5B6AA51341A71A9EBC9A4954ED94680092AB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/richardatwork\/medaWorkflowApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BEA17449270429FA5B1EFDC1813F4E6B6136537C"
+    }
+  ]
+}
