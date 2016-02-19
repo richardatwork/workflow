@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		791330E81C7758BD00198DA9 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791330E71C7758BD00198DA9 /* LoginViewController.swift */; };
 		793A7FEB1C72068400A9E454 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793A7FEA1C72068400A9E454 /* AppDelegate.swift */; };
 		793A7FED1C72068400A9E454 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793A7FEC1C72068400A9E454 /* ViewController.swift */; };
 		793A7FF01C72068400A9E454 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 793A7FEE1C72068400A9E454 /* Main.storyboard */; };
@@ -44,6 +45,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		791330E71C7758BD00198DA9 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		793A7FE71C72068400A9E454 /* Meda_Workflow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Meda_Workflow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		793A7FEA1C72068400A9E454 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		793A7FEC1C72068400A9E454 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -115,6 +117,7 @@
 			children = (
 				793A7FEA1C72068400A9E454 /* AppDelegate.swift */,
 				793A7FEC1C72068400A9E454 /* ViewController.swift */,
+				791330E71C7758BD00198DA9 /* LoginViewController.swift */,
 				793A7FEE1C72068400A9E454 /* Main.storyboard */,
 				7998E1D91C75AF9600107DE1 /* Assets.xcassets */,
 				793A7FF31C72068400A9E454 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 				796A6B6D1C73207200304434 /* DesignableTextField.swift in Sources */,
 				796A6B651C73207200304434 /* AsyncButton.swift in Sources */,
 				796A6B721C73207200304434 /* KeyboardLayoutConstraint.swift in Sources */,
+				791330E81C7758BD00198DA9 /* LoginViewController.swift in Sources */,
 				796A6B791C73207200304434 /* SpringButton.swift in Sources */,
 				796A6B661C73207200304434 /* AsyncImageView.swift in Sources */,
 				796A6B6C1C73207200304434 /* DesignableTabBarController.swift in Sources */,
